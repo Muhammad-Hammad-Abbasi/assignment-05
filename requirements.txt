@@ -1,0 +1,5 @@
+streamlit
+pymongo
+# client = MongoClient("mongodb+srv://hammadabbasi102030:9dJhZNovFnmhye4O@cluster0.ettgy2q.mongodb.net/")
+# db = client["secure-data-encryption"]
+# users = db["users"] 0rXh7sSDoxXWAmr7
